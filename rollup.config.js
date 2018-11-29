@@ -34,5 +34,5 @@ export default {
             include: 'node_modules/**'
         })
     ],
-    external: ['styled-components', 'react', 'react-dom']
+    external: Object.keys(pkg.dependencies)
 };
