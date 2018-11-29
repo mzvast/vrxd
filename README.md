@@ -11,6 +11,6 @@ npm i @mzvast/vrxd --save
 
 ## Usage
 ```jsx
-import {SimpleButton} from '@mzvast@vrxd';
+import {SimpleButton} from '@mzvast/vrxd';
 ReactDOM.render(<SimpleButton/>, mountNode);
 ```
