@@ -117,4 +117,5 @@ class SimpleButton extends PureComponent<Props, State> {
         );
     }
 }
+SimpleButton.displayName = 'SimpleButton';
 export default SimpleButton;
