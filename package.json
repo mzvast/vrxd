@@ -1,13 +1,12 @@
 {
-    "name": "vrxd",
-    "version": "1.0.0",
+    "name": "@mzvast/vrxd",
+    "version": "0.0.1",
     "description": "",
     "author": "mzvast",
     "license": "MIT",
     "repository": "mzvast/vrxd",
     "main": "dist/index.js",
     "module": "dist/index.es.js",
-    "private": true,
     "scripts": {
         "start": "rollup -c -w",
         "build": "rollup -c",
